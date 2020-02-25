@@ -1,0 +1,10 @@
+/Users/juliakorkman/Documents/introprog/bin/Debug/netcoreapp3.1/introprog.deps.json
+/Users/juliakorkman/Documents/introprog/bin/Debug/netcoreapp3.1/introprog.runtimeconfig.json
+/Users/juliakorkman/Documents/introprog/bin/Debug/netcoreapp3.1/introprog.runtimeconfig.dev.json
+/Users/juliakorkman/Documents/introprog/bin/Debug/netcoreapp3.1/introprog.dll
+/Users/juliakorkman/Documents/introprog/bin/Debug/netcoreapp3.1/introprog.pdb
+/Users/juliakorkman/Documents/introprog/obj/Debug/netcoreapp3.1/introprog.csprojAssemblyReference.cache
+/Users/juliakorkman/Documents/introprog/obj/Debug/netcoreapp3.1/introprog.AssemblyInfoInputs.cache
+/Users/juliakorkman/Documents/introprog/obj/Debug/netcoreapp3.1/introprog.AssemblyInfo.cs
+/Users/juliakorkman/Documents/introprog/obj/Debug/netcoreapp3.1/introprog.dll
+/Users/juliakorkman/Documents/introprog/obj/Debug/netcoreapp3.1/introprog.pdb
